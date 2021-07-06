@@ -68,7 +68,7 @@ h2{
     margin-right:3% ;
 }
 
-.dietbar .content span{
+span{
     color: orange;
 }
 .dietbar .content p{
@@ -169,6 +169,34 @@ h2{
     font-size: 25px;
 }
 .itemno p{
+    margin-left: 20px;
+    color: #828282;
+    font-size: 20px;
+    padding:10px 0px;
+}
+.Customer{
+    width: 100%;
+    display: flex;
+    background-color: rgb(253, 249, 249);
+}
+.Customer .pic{
+    width: 50%;
+    float: left;
+    margin-left: 5%;
+}
+.Customer .pic img{
+    width: 440px ;
+}
+.foot{
+  
+    background-color: black;
+    text-align: center;
+}
+.foot h2{
+    color: white;
+}
+
+.foot p{
     margin-left: 20px;
     color: #828282;
     font-size: 20px;
